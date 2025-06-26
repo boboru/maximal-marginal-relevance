@@ -2,6 +2,8 @@
 
 This repository provides a practical implementation of Maximal Marginal Relevance (MMR) to enhance search result diversification. The primary goal is to re-rank search results, balancing relevance and diversity to avoid redundant information.
 
+Blog introduction: [Re-rank 算法: Maximal Marginal Relevance](https://boboru.net/maximal-marginal-relevance/)
+
 ## Key Features
 
 - **Text Embedding**: Utilizes `sentence-transformers` to generate dense vector representations of text data.
