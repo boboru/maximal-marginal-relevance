@@ -23,7 +23,7 @@ _Data source: [https://data.gov.tw/dataset/43388](https://data.gov.tw/dataset/43
 
 1. **Clone the repository:**
    ```bash
-   gh repo clone boboru/maximal-marginal-relevance
+   git clone git@github.com:boboru/maximal-marginal-relevance.git
    cd maximal-marginal-relevance
    ```
 
